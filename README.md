@@ -18,5 +18,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+![Dashboard](/Images/Hospitality.png?raw=true)
 
 ![Dashboard](/Images/Hospitality-1.png?raw=true)
